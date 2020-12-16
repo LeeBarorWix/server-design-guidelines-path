@@ -1,0 +1,13 @@
+title: Server Design Guidelines
+description: >-
+  The purpose of this document is to serve as a guide for thinking of / making
+  Server design decisions. Use these guidelines to ensure your design supports a
+  growing scale, is highly resilient, easy to maintain, and flexibile to change.
+steps:
+  - course: githubtraining/introduction-to-github
+    description: The first step in your course
+  - link: 'https://lab.github.com'
+    title: Check out Learning Lab for more courses!
+    description: >-
+      There are many more courses available on Learning Lab for you to check
+      out.
